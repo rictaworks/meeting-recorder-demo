@@ -1,0 +1,35 @@
+.env
+.claude/
+CLIENT/
+DEBUG/
+DELETE/
+ENV/
+TASKS/
+WORK/
+SPEC/meeting-recorder-demo-spec.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Vosk model (large binary)
+backend/models/
+
+# SQLite
+*.db
+*.sqlite3
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node.js
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+

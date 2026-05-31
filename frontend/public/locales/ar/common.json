@@ -1,0 +1,56 @@
+{
+  "record": {
+    "start": "بدء التسجيل",
+    "stop": "إيقاف التسجيل",
+    "recording": "جارٍ التسجيل",
+    "idle": "في انتظار"
+  },
+  "upload": {
+    "label": "رفع ملف",
+    "dragdrop": "اسحب وأفلت هنا",
+    "or": "أو",
+    "click": "انقر للاختيار",
+    "formats": "الصيغ المدعومة: WAV / WebM / OGG / MP3"
+  },
+  "transcript": {
+    "title": "النص المُحوَّل",
+    "edit_hint": "يمكنك تعديل النص",
+    "generate": "توليد المحضر والمهام والملخص"
+  },
+  "minutes": {
+    "title": "محضر الاجتماع",
+    "decisions": "القرارات",
+    "next": "جدول الأعمال التالي",
+    "body": "المتن"
+  },
+  "todos": {
+    "title": "المهام",
+    "add": "إضافة",
+    "placeholder": "أدخل مهمة"
+  },
+  "summary": {
+    "title": "الملخص"
+  },
+  "history": {
+    "title": "سجل الاجتماعات",
+    "empty": "لا يوجد سجل للاجتماعات"
+  },
+  "maintenance": {
+    "message": "جارٍ إعادة تعيين البيانات. يرجى الانتظار."
+  },
+  "error": {
+    "file_too_large": "حجم الملف يتجاوز 100 ميجابايت",
+    "unsupported_format": "صيغة الملف غير مدعومة",
+    "generic": "حدث خطأ",
+    "upload_failed": "فشل الرفع",
+    "generate_failed": "فشل التوليد"
+  },
+  "status": {
+    "processing": "جارٍ المعالجة...",
+    "done": "تم"
+  },
+  "modal": {
+    "ok": "موافق",
+    "cancel": "إلغاء"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "record": {
+    "start": "Iniciar grabación",
+    "stop": "Detener grabación",
+    "recording": "Grabando",
+    "idle": "En espera"
+  },
+  "upload": {
+    "label": "Subir archivo",
+    "dragdrop": "Arrastra y suelta aquí",
+    "or": "o",
+    "click": "Haz clic para seleccionar",
+    "formats": "Formatos admitidos: WAV / WebM / OGG / MP3"
+  },
+  "transcript": {
+    "title": "Transcripción",
+    "edit_hint": "Puedes editar el texto",
+    "generate": "Generar acta, tareas y resumen"
+  },
+  "minutes": {
+    "title": "Acta",
+    "decisions": "Decisiones",
+    "next": "Próxima agenda",
+    "body": "Cuerpo"
+  },
+  "todos": {
+    "title": "Tareas",
+    "add": "Agregar",
+    "placeholder": "Ingresa una tarea"
+  },
+  "summary": {
+    "title": "Resumen"
+  },
+  "history": {
+    "title": "Historial de reuniones",
+    "empty": "No hay historial de reuniones"
+  },
+  "maintenance": {
+    "message": "Restablecimiento de datos en curso. Por favor espere."
+  },
+  "error": {
+    "file_too_large": "El tamaño del archivo supera los 100 MB",
+    "unsupported_format": "Formato de archivo no compatible",
+    "generic": "Se produjo un error",
+    "upload_failed": "Error al subir",
+    "generate_failed": "Error al generar"
+  },
+  "status": {
+    "processing": "Procesando...",
+    "done": "Listo"
+  },
+  "modal": {
+    "ok": "Aceptar",
+    "cancel": "Cancelar"
+  }
+}

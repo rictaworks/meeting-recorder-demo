@@ -1,0 +1,56 @@
+{
+  "record": {
+    "start": "Start Recording",
+    "stop": "Stop Recording",
+    "recording": "Recording",
+    "idle": "Idle"
+  },
+  "upload": {
+    "label": "Upload File",
+    "dragdrop": "Drag & Drop Here",
+    "or": "or",
+    "click": "Click to Select",
+    "formats": "Supported: WAV / WebM / OGG / MP3"
+  },
+  "transcript": {
+    "title": "Transcript",
+    "edit_hint": "You can edit the text",
+    "generate": "Generate Minutes, ToDos & Summary"
+  },
+  "minutes": {
+    "title": "Minutes",
+    "decisions": "Decisions",
+    "next": "Next Agenda",
+    "body": "Body"
+  },
+  "todos": {
+    "title": "ToDo",
+    "add": "Add",
+    "placeholder": "Enter a ToDo"
+  },
+  "summary": {
+    "title": "Summary"
+  },
+  "history": {
+    "title": "Meeting History",
+    "empty": "No meeting history"
+  },
+  "maintenance": {
+    "message": "Data reset in progress. Please wait."
+  },
+  "error": {
+    "file_too_large": "File size exceeds 100MB",
+    "unsupported_format": "Unsupported file format",
+    "generic": "An error occurred",
+    "upload_failed": "Upload failed",
+    "generate_failed": "Generation failed"
+  },
+  "status": {
+    "processing": "Processing...",
+    "done": "Done"
+  },
+  "modal": {
+    "ok": "OK",
+    "cancel": "Cancel"
+  }
+}
