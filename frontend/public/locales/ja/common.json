@@ -1,0 +1,56 @@
+{
+  "record": {
+    "start": "録音開始",
+    "stop": "録音停止",
+    "recording": "録音中",
+    "idle": "待機中"
+  },
+  "upload": {
+    "label": "ファイルをアップロード",
+    "dragdrop": "ここにドラッグ＆ドロップ",
+    "or": "または",
+    "click": "クリックして選択",
+    "formats": "対応形式: WAV / WebM / OGG / MP3"
+  },
+  "transcript": {
+    "title": "文字起こし",
+    "edit_hint": "テキストを編集できます",
+    "generate": "議事録・ToDo・要約を生成する"
+  },
+  "minutes": {
+    "title": "議事録",
+    "decisions": "決定事項",
+    "next": "次回議題",
+    "body": "本文"
+  },
+  "todos": {
+    "title": "ToDo",
+    "add": "追加",
+    "placeholder": "ToDoを入力"
+  },
+  "summary": {
+    "title": "要約"
+  },
+  "history": {
+    "title": "会議履歴",
+    "empty": "会議履歴はありません"
+  },
+  "maintenance": {
+    "message": "データリセット中。しばらくお待ちください。"
+  },
+  "error": {
+    "file_too_large": "ファイルサイズが100MBを超えています",
+    "unsupported_format": "対応していない形式です",
+    "generic": "エラーが発生しました",
+    "upload_failed": "アップロードに失敗しました",
+    "generate_failed": "生成に失敗しました"
+  },
+  "status": {
+    "processing": "処理中...",
+    "done": "完了"
+  },
+  "modal": {
+    "ok": "OK",
+    "cancel": "キャンセル"
+  }
+}

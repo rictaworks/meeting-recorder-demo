@@ -1,0 +1,56 @@
+{
+  "record": {
+    "start": "开始录音",
+    "stop": "停止录音",
+    "recording": "录音中",
+    "idle": "待机"
+  },
+  "upload": {
+    "label": "上传文件",
+    "dragdrop": "拖放到此处",
+    "or": "或",
+    "click": "点击选择",
+    "formats": "支持格式: WAV / WebM / OGG / MP3"
+  },
+  "transcript": {
+    "title": "转录",
+    "edit_hint": "可以编辑文本",
+    "generate": "生成会议纪要、待办事项和摘要"
+  },
+  "minutes": {
+    "title": "会议纪要",
+    "decisions": "决定事项",
+    "next": "下次议题",
+    "body": "正文"
+  },
+  "todos": {
+    "title": "待办事项",
+    "add": "添加",
+    "placeholder": "输入待办事项"
+  },
+  "summary": {
+    "title": "摘要"
+  },
+  "history": {
+    "title": "会议历史",
+    "empty": "没有会议历史"
+  },
+  "maintenance": {
+    "message": "数据重置中，请稍候。"
+  },
+  "error": {
+    "file_too_large": "文件大小超过100MB",
+    "unsupported_format": "不支持的文件格式",
+    "generic": "发生错误",
+    "upload_failed": "上传失败",
+    "generate_failed": "生成失败"
+  },
+  "status": {
+    "processing": "处理中...",
+    "done": "完成"
+  },
+  "modal": {
+    "ok": "确定",
+    "cancel": "取消"
+  }
+}

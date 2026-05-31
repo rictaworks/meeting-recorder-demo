@@ -1,0 +1,56 @@
+{
+  "record": {
+    "start": "Commencer l'enregistrement",
+    "stop": "Arrêter l'enregistrement",
+    "recording": "Enregistrement",
+    "idle": "En attente"
+  },
+  "upload": {
+    "label": "Télécharger un fichier",
+    "dragdrop": "Glisser-déposer ici",
+    "or": "ou",
+    "click": "Cliquer pour sélectionner",
+    "formats": "Formats supportés: WAV / WebM / OGG / MP3"
+  },
+  "transcript": {
+    "title": "Transcription",
+    "edit_hint": "Vous pouvez modifier le texte",
+    "generate": "Générer le compte-rendu, les tâches et le résumé"
+  },
+  "minutes": {
+    "title": "Compte-rendu",
+    "decisions": "Décisions",
+    "next": "Ordre du jour suivant",
+    "body": "Corps"
+  },
+  "todos": {
+    "title": "Tâches",
+    "add": "Ajouter",
+    "placeholder": "Saisir une tâche"
+  },
+  "summary": {
+    "title": "Résumé"
+  },
+  "history": {
+    "title": "Historique des réunions",
+    "empty": "Aucun historique de réunion"
+  },
+  "maintenance": {
+    "message": "Réinitialisation des données en cours. Veuillez patienter."
+  },
+  "error": {
+    "file_too_large": "La taille du fichier dépasse 100 Mo",
+    "unsupported_format": "Format de fichier non supporté",
+    "generic": "Une erreur s'est produite",
+    "upload_failed": "Échec du téléchargement",
+    "generate_failed": "Échec de la génération"
+  },
+  "status": {
+    "processing": "Traitement en cours...",
+    "done": "Terminé"
+  },
+  "modal": {
+    "ok": "OK",
+    "cancel": "Annuler"
+  }
+}
