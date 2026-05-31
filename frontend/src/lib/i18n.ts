@@ -23,6 +23,8 @@ i18n
       caches: ["cookie"],
     },
     interpolation: {
+      // React が JSX を自動エスケープするため二重エスケープを避ける。
+      // locale ファイルは静的バンドルのみ — ユーザー入力を含まない。
       escapeValue: false,
     },
   });
